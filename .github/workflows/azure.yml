@@ -1,4 +1,4 @@
-name: mkyan
+name: azure
 
 on: workflow_dispatch
 
